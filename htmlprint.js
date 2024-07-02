@@ -1,0 +1,1 @@
+document.write("<h1>Whenever we want to print something in our html page we will use document.write()</h1>");

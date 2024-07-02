@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form onsubmit="return review();">
+        <label for="">Name</label>
+        <input type="text" name="" id="name"> <br> <br>
+        <label for="">Contact</label>
+        <input type="text" name="" id="contact"> <br> <br>
+        <label for="">Email</label>
+        <input type="text" name="" id="email"> <br> <br>
+        <label for="">Password</label>
+        <input type="text" name="" id="pass"> <br> <br>
+        <label for="">Confirm Password</label>
+        <input type="text" name="" id="cpass"> <br> <br>
+
+        <input type="submit" name="" id="">
+    </form>
+
+    <script>
+        let name=document.getElementById('name').value
+        let contact=document.getElementById('contact').value
+        let email=document.getElementById('email').value
+        let paswword=document.getElementById('pass').value
+        let cpassword=document.getElementById('cpass').value
+
+        function review(){
+            if(name==""){
+                alert("Please enter name")
+                document.getElementById('name').focus()
+                return false
+            }
+        }
+    </script>
+</body>
+</html>

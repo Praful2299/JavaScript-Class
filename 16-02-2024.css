@@ -1,0 +1,26 @@
+/* *{
+    background-color: brown;
+} */
+*{
+    font-family: cursive;
+}
+.form{
+    margin-top: 120px;
+    background-color:rgba(0, 0, 0, 0.433);
+    width: 500px;
+    height: 70vh;
+    margin-left: 450px;
+    text-align: center;
+}
+form{
+    background-color: rgba(0, 0, 0, 0.093);
+    color: white;
+}
+.form input{
+    margin-bottom: 10px;
+    padding: 1px 20px;
+}
+.form label{
+    font-size: 20px;
+    margin-right: 15px;
+}

@@ -1,0 +1,14 @@
+{
+    "Details":[{
+        "id": 1,
+        "Name":"Praful Shrivastava",
+        "Age":25,
+        "City":"Bhopal"
+
+    },{
+        "id":2,
+        "Name":"Kanha",
+        "Age":25,
+        "City":"Bhopal"
+    }]
+}

@@ -1,0 +1,35 @@
+*{
+    font-family: cursive;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: bisque;
+    animation: anim;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.form{
+    background-color: rgba(0, 0, 0, 0.327);
+    color: whitesmoke;
+    border-radius: 25%;
+    margin-right: 120px;
+    height: 90vh;
+    width: 40%;
+    text-align: center;
+    animation: anim;
+}
+.form h1{
+    text-align: center;
+}
+.form input{
+    margin-bottom: 20px;
+    padding: 5px 20px;
+    margin-left: 15px;
+}
+.form label{
+    font-size: 25px;
+    color: rgb(147, 33, 33);
+}
+

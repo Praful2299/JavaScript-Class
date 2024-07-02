@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        let student=[
+            {name:"Praful",roll:95,age:58},
+            {name:"Chandan",roll:85,age:82},
+            {name:"Ayush",roll:75,age:86},
+            {name:"Sumit",roll:65,age:87},
+            {name:"Shrey",roll:55,age:95}
+        ]
+        student.push({name:"Punit",roll:420})     //it add element or data at last of array
+       console.log(student)
+
+       let b= student.map((a)=>{return a.name})
+       console.log(b)
+    
+       let fil= student.filter((f)=>{return f.age>58})  //it filters and give all data above age of 58 or apan condition laga sakte he
+       console.log(fil);
+    </script>
+</body>
+</html> 

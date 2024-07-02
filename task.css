@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+.butto{
+    display: flex;
+    justify-content: space-around;
+}
+.content{
+    text-align: center;
+}
+.cart{
+    text-align: center;
+}
+#trolly{
+    position: relative;
+    top: 80px;
+    left: 120px;
+}
+
+.butto button{
+    padding: 1px 50px;
+}

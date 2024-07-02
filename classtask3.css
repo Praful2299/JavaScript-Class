@@ -1,0 +1,33 @@
+.main{
+    display: flex;
+}
+.img2{
+    position: relative;
+    top: 130px;
+    right: 90px;
+}
+.img3{
+    position: relative;
+    top: 260px;
+    right: 190px;
+}
+.img4{
+    position: relative;
+    top: 400px;
+    right: 270px;
+}
+
+.img5{
+    position: relative;
+    top: 520px;
+    right: 350px;
+}
+#target{
+    width: 500px;
+    height: 500px;
+}
+
+.content{
+    position: relative ;
+    top: 150px;
+}

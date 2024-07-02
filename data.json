@@ -1,0 +1,23 @@
+{
+    "student":[{
+        "id":1,
+        "Name":"Praful",
+        "Age": 25,
+        "City":"Bhopal"
+    },{
+        "id":2,
+        "Name":"Puneet",
+        "Age": 35,
+        "City":"Vidisha" 
+    },{
+        "id":3,
+        "Name":"Kartik",
+        "Age": 45,
+        "City":"Bhairunda"
+    },{
+        "id":4,
+        "Name":"Sumit",
+        "Age": 55,
+        "City":"Mandideep"
+    }]
+}

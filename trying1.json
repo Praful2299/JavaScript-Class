@@ -1,0 +1,17 @@
+{
+    "Praful":[{
+        "Name":"Praful",
+        "Age":85,
+        "Location":"Bhopal"
+    },{
+        "Name":"Chandan",
+        "Age":65,
+        "Location":"Mandideep"
+    },
+    {
+        "Name":"Sumit",
+        "Age":45,
+        "Location":"Sultanpur"
+    }
+]
+}
